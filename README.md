@@ -40,10 +40,6 @@ Through this assignment, I learned:
 - How to organize website files and folders
 - How to create a basic website navigation system
 
-## Course Information
-
-I'm currently learning Web and App Development at SMIT and this project is part of my HTML practice assignments.
-
 ## Author
 
 **Shariq Ali**
